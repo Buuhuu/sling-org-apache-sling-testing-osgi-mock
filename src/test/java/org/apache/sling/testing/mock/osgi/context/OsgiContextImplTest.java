@@ -37,6 +37,7 @@ import org.junit.Before;
 import org.junit.Test;
 import org.osgi.framework.ServiceReference;
 
+@SuppressWarnings("null")
 public class OsgiContextImplTest {
 
     private OsgiContextImpl context;
